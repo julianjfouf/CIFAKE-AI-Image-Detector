@@ -19,6 +19,7 @@
 
 Citations:
 <br />
+<br/>
 <a href="https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdfl">Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.</a>
 
 Bird, J.J. and Lotfi, A., 2024. CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. IEEE Access.
