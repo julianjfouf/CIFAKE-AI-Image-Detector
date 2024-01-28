@@ -19,7 +19,7 @@ Citations:
 <br/>
 <br/>
 <a href="https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdfl">Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.</a>
-
+<br/>
 Bird, J.J. and Lotfi, A., 2024. CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. IEEE Access.
 
 "Real images are from Krizhevsky & Hinton (2009), fake images are from Bird & Lotfi (2024). The Bird & Lotfi study is available <a href="https://ieeexplore.ieee.org/abstract/document/10409290">here</a>."
