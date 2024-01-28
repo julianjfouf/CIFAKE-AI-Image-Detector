@@ -18,6 +18,7 @@
 <p>I would like to extend this project to something of greater magnitude, specifically, I would like to train a model to be able to differentiate between real images and those that can be found on <a href="https://app.leonardo.ai/">Leonardo AI</a>. I have not used Midjourney in about a year so I am not able to give a very precise comparison of the quality of images produced using Midjourney versus those produced through Leonardo AI, however I must comment that the images that can be generated on Leonardo AI are remarkably impressive in image quality and realism (possibly superior to Midjourney, but again I am not in a position to give a good comparison).</p>
 
 Citations:
+<br />
 <a href="https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdfl">Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.</a>
 
 Bird, J.J. and Lotfi, A., 2024. CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. IEEE Access.
