@@ -1,4 +1,4 @@
-<h1>CIFAKE-AI-Image-Detector</h1>
+<h1>CIFAKE AI Image Detector</h1>
 
 <p>A good amount of commentary is already present towards the end of the jupyter file. However I will give some context that is not presented there.</p>
 
